@@ -1,0 +1,5 @@
+切面 编程 AOP
+aspect oriented program
+
+Spring 采用动态代理织入
+
